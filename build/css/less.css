@@ -1,0 +1,13 @@
+body {
+  color: yellow;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+body {
+  font-size: 24px;
+}
+
+#app:hover {
+  color: #aaaaaa;
+}
